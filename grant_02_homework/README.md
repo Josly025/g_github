@@ -1,44 +1,23 @@
-# 01 HTML CSS Git: Code Refactor
+# Code Refactor 
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+## Details:
+* The code in index.hmtml was modified to include better use of semantic html elements. This 
+inlcuded changing many div tages to other sematic tags when needed. 
+* Many in-tag classes, id's, and more semantics were changed in index.html to link with a style.css file. 
+* Main goal was to reduce the amount of CSS and refractor where needed. Most importantly; making sure that the 
+page remains the same as it orignally is viewed in a web browser. 
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+### Notes on Process: 
+* I was first confused on what exactly we were to do with the Semantic elements of the work; however, 
+I noticed a few DIV tags that could be changed afer reviewing my notes. 
+* I found it easy to use cmd + / and cmd + z throughout the refractoring process. I found it easy to 
+see various aspects of CSS that could fall into one section or could be combined into one class. I became 
+more confident as my changed continued to NOT change the browser link. 
+* For the future, I did not know when to stop attempting to make elements. I spent a lot
+of time on trying to trying various new elements; however, I started to consider if more would 
+potentially hurt my grade. I also think I could get better at organizing my file system with GitHub 
+for future projects. Potentially, I would make a better repo name to pair with the files. 
 
-> Always leave the code you are editing a little cleaner than you found it.
-
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
-
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-
-## Acceptance Criteria
-
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-<!-- THEN I find accessible alt attributes -->
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-<!-- THEN I find a concise, descriptive title  -->
-```
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+### LINKS: 
+[GitHub Repo](https://github.com/Josly025/g_github)
+[GitHub Pages](https://josly025.github.io/g_github/)
